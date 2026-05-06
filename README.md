@@ -1,6 +1,6 @@
 # 🏠 Remax Immobilier — Windows Application
 
-A multi-tier desktop application for real estate management, built with C# WinForms as part of a college course project. Scored 90/100.
+A multi-tier desktop application for real estate management, built with C# WinForms as part of a college course project.
 
 ## 📸 Screenshots
 
