@@ -1,0 +1,14 @@
+C:\Users\Doris\source\repos\2025\Fall\420CT3AS\prjWinCsImmoRemax\prjWinCsImmoRemax\obj\Debug\prjWinCsImmoRemax.csproj.AssemblyReference.cache
+C:\Users\Doris\source\repos\2025\Fall\420CT3AS\prjWinCsImmoRemax\prjWinCsImmoRemax\obj\Debug\prjWinCsImmoRemax.frmPrincipal.resources
+C:\Users\Doris\source\repos\2025\Fall\420CT3AS\prjWinCsImmoRemax\prjWinCsImmoRemax\obj\Debug\prjWinCsImmoRemax.Properties.Resources.resources
+C:\Users\Doris\source\repos\2025\Fall\420CT3AS\prjWinCsImmoRemax\prjWinCsImmoRemax\obj\Debug\prjWinCsImmoRemax.csproj.GenerateResource.cache
+C:\Users\Doris\source\repos\2025\Fall\420CT3AS\prjWinCsImmoRemax\prjWinCsImmoRemax\obj\Debug\prjWinCsImmoRemax.csproj.CoreCompileInputs.cache
+C:\Users\Doris\source\repos\2025\Fall\420CT3AS\prjWinCsImmoRemax\prjWinCsImmoRemax\bin\Debug\prjWinCsImmoRemax.exe.config
+C:\Users\Doris\source\repos\2025\Fall\420CT3AS\prjWinCsImmoRemax\prjWinCsImmoRemax\bin\Debug\prjWinCsImmoRemax.exe
+C:\Users\Doris\source\repos\2025\Fall\420CT3AS\prjWinCsImmoRemax\prjWinCsImmoRemax\bin\Debug\prjWinCsImmoRemax.pdb
+C:\Users\Doris\source\repos\2025\Fall\420CT3AS\prjWinCsImmoRemax\prjWinCsImmoRemax\obj\Debug\prjWinCsImmoRemax.exe
+C:\Users\Doris\source\repos\2025\Fall\420CT3AS\prjWinCsImmoRemax\prjWinCsImmoRemax\obj\Debug\prjWinCsImmoRemax.pdb
+C:\Users\Doris\source\repos\2025\Fall\420CT3AS\prjWinCsImmoRemax\prjWinCsImmoRemax\obj\Debug\prjWinCsImmoRemax.frmEmployes.resources
+C:\Users\Doris\source\repos\2025\Fall\420CT3AS\prjWinCsImmoRemax\prjWinCsImmoRemax\obj\Debug\prjWinCsImmoRemax.frmClient.resources
+C:\Users\Doris\source\repos\2025\Fall\420CT3AS\prjWinCsImmoRemax\prjWinCsImmoRemax\obj\Debug\prjWinCsImmoRemax.frmMaison.resources
+C:\Users\Doris\source\repos\2025\Fall\420CT3AS\prjWinCsImmoRemax\prjWinCsImmoRemax\obj\Debug\prjWinCsImmoRemax.frmRecherche.resources
